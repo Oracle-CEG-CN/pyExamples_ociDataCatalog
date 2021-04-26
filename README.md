@@ -22,3 +22,4 @@ See documentation and code [here](/exampleCode/example_showCatalogs.md)
 
 ### example_showGlossary.py
 The intend of this code is to provide example code to list all glossaries which are part of a given data catalog based upon the Data Catalog ID.
+See documentation and code [here](/exampleCode/example_showGlossary.md)
