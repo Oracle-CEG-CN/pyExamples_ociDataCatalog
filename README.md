@@ -23,3 +23,7 @@ See documentation and code [here](/exampleCode/example_showCatalogs.md)
 ### example_showGlossary.py
 The intend of this code is to provide example code to list all glossaries which are part of a given data catalog based upon the Data Catalog ID.
 See documentation and code [here](/exampleCode/example_showGlossary.md)
+
+### example_showGlossarySummary.py
+The intend of this code is to provide example code to list a summary of the content of a glossary as part of the Oracle Data Catalog See documentation and code [here](/exampleCode/example_showGlossarySummary.md)
+
