@@ -27,3 +27,6 @@ See documentation and code [here](/exampleCode/example_showGlossary.md)
 ### example_showGlossarySummary.py
 The intend of this code is to provide example code to list a summary of the content of a glossary as part of the Oracle Data Catalog See documentation and code [here](/exampleCode/example_showGlossarySummary.md)
 
+### example_showDataAssets.py
+The intend of this code is to provide example code to list all data assets which are part of a given data catalog based upon the Data Catalog ID. See documentation and code [here](/exampleCode/example_showDataAssets.md)
+
