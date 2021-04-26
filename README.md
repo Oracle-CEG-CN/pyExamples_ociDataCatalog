@@ -17,4 +17,8 @@ https://pypi.org/project/oci/
 ## Examples
 
 ### example_showCatalogs.py
-The example_showCatalogs.py provides an example to retrieve an overview of all Oracle Data Catalogs within a given Oracle Cloud Compartment.
+The intend of this code is to provide example code to list all data catalogs under a specified compartment within OCI. 
+See documentation and code [here](/exampleCode/example_showCatalogs.md)
+
+### example_showGlossary.py
+The intend of this code is to provide example code to list all glossaries which are part of a given data catalog based upon the Data Catalog ID.
