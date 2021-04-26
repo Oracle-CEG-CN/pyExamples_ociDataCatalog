@@ -23,6 +23,12 @@ LICENSE:
       Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 '''
 
+__author__ = "Johan Louwers"
+__copyright__ = "Copyright 2021, Johan Louwers"
+__license__ = "GPLv3 "
+__email__ = "louwersj@gmail.com"
+
+
 import oci
 from oci.config import from_file
 
