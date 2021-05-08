@@ -1,5 +1,5 @@
 # OCI Data Catalog / OCI Python SDK - Examples
-The examples in this repository are not official Oracle code and should be treated as examples without any waranty and are not intended to be used in any way or form in real code. Please refer to the license file for additional information on warranty, usability and shareability 
+The examples in this repository are not official Oracle code and should be treated as examples without any waranty and are not intended to be used in any way or form in real code. Please refer to the license file for additional information on warranty, usability and shareability guidance.
 
 This repository contains examples for using the Oracle Cloud Python SDK in combination with Oracle Data Catalog.
 
