@@ -4,7 +4,7 @@ The examples in this repository are not official Oracle code and should be treat
 This repository contains examples for using the Oracle Cloud Python SDK in combination with Oracle Data Catalog.
 
 ## Tech Focus
-The exampels focus primarily on the below tech components. 
+The examples focus primarily on the below tech components:
 
 ### Oracle Data Catalog
 Oracle Cloud Infrastructure Data Catalog is a fully managed, self-service data discovery and governance solution for your enterprise data. With Data Catalog, you get a single collaborative environment to manage technical, business, and operational metadata. You can collect, organize, find, access, understand, enrich, and activate this metadata. 
